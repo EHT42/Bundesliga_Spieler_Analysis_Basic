@@ -1,7 +1,7 @@
-## 📊 Spieleranalyse der Bundesliga-Daten
+# 📊 Spieleranalyse der Bundesliga-Daten
 Dieses Projekt analysiert Bundesliga-Spieler anhand einer CSV-Datei mit verschiedenen Merkmalen wie Alter, Preis, Position und Größe. Mithilfe von Pandas und Matplotlib werden die Daten visualisiert und ausgewertet.
 
-# 🚀 Projektübersicht
+## 🚀 Projektübersicht
 Dieses Projekt führt eine detaillierte Analyse von Bundesliga-Spielern durch. Dazu gehört:
 
 Einlesen und Vorbereiten der Daten.
@@ -12,7 +12,7 @@ Plotten der Verteilungen von Alter und Spielernummer.
 Analyse der Beziehung zwischen Alter und Preis mithilfe eines Punktediagramms und einer LOWESS-Kurve.
 Gruppierung und Visualisierung von Spielergrößen nach Position.
 
-# 📂 Datensatz
+## 📂 Datensatz
 Der verwendete Datensatz ist eine CSV-Datei mit den folgenden relevanten Spalten:
 
 name: Name des Spielers
@@ -22,7 +22,7 @@ position: Position des Spielers
 height: Größe des Spielers
 shirt_nr: Trikotnummer des Spielers
 
-# 🔧 Wichtige Funktionen und Analysen
+## 🔧 Wichtige Funktionen und Analysen
 - 1. Visualisierung der Spielernummer-Verteilung
 Ein Balkendiagramm zeigt die Anzahl der Spieler pro Trikotnummer.
 - 2. Analyse der Altersverteilung
